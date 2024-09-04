@@ -15,4 +15,5 @@ Foram simulados três cenários de acesso à memória:
 - Cenário 1: A, B, C, A, A, B, B, C, A, D, E, F, B, A, B, C, D
 - Cenário 2: A, D, C, B, A, B, D, C, A, D, E, F, B, A, F, C, D
 - Cenário 3: A, D, C, B, A, B, D, C, A, D, E, F, B, A, F, C, D, A, B, C, A, A, B, B, C, A, D, E, F, B, C, D, C, D
+  
 Cada cenário foi testado com os três algoritmos de substituição para analisar o desempenho e o comportamento da cache em situações variadas.
